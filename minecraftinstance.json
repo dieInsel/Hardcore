@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "0001-01-01T00:00:00",
+  "lastPlayed": "2020-04-22T16:47:27.0141854Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -68,7 +68,1037 @@
   },
   "preferenceShowAddOnInfo": true,
   "installDate": "2020-04-22T16:26:36.3172067Z",
-  "installedAddons": [],
+  "installedAddons": [
+    {
+      "addonID": 311054,
+      "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
+      "installedFile": {
+        "id": 2927595,
+        "displayName": "AoA3 3.2.7",
+        "fileName": "AoA3-3.2.7.jar",
+        "fileDate": "2020-04-11T22:37:02.517Z",
+        "fileLength": 90079015,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2927/595/AoA3-3.2.7.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2046094133,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1618703743,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4117314577,
+            "type": 0
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 4256123705,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 958162322,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1354558987,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "AoA3-3.2.7.jar"
+      },
+      "dateInstalled": "2020-04-22T16:46:25.4399965Z",
+      "dateUpdated": "2020-04-22T16:46:25.6922897Z",
+      "dateLastUpdateAttempted": "2020-04-22T16:46:25.6922897Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 238856,
+      "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
+      "installedFile": {
+        "id": 2935497,
+        "displayName": "BetterQuesting-3.5.327.jar",
+        "fileName": "BetterQuesting-3.5.327.jar",
+        "fileDate": "2020-04-20T13:29:57.03Z",
+        "fileLength": 1431848,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2935/497/BetterQuesting-3.5.327.jar",
+        "isAlternate": false,
+        "alternateFileId": 2935498,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1468582675,
+            "type": 0
+          },
+          {
+            "foldername": "betterquesting",
+            "fingerprint": 742591693,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 607147053,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3732535021,
+            "type": 0
+          },
+          {
+            "foldername": "title.png",
+            "fingerprint": 716088397,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1705484129,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "BetterQuesting-3.5.327.jar"
+      },
+      "dateInstalled": "2020-04-22T16:30:48.8806888Z",
+      "dateUpdated": "2020-04-22T16:30:48.890662Z",
+      "dateLastUpdateAttempted": "2020-04-22T16:30:48.890662Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 287683,
+      "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
+      "installedFile": {
+        "id": 2882794,
+        "displayName": "conarm-1.12.2-1.2.5.4.jar",
+        "fileName": "conarm-1.12.2-1.2.5.4.jar",
+        "fileDate": "2020-02-16T08:18:00.067Z",
+        "fileLength": 894192,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2882/794/conarm-1.12.2-1.2.5.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 2882795,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 238222,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 74924,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 239197,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 74072,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 250957,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 237065,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 713354540,
+            "type": 0
+          },
+          {
+            "foldername": "CHANGELOG.md",
+            "fingerprint": 2284964104,
+            "type": 0
+          },
+          {
+            "foldername": "README.md",
+            "fingerprint": 1402552751,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4288990102,
+            "type": 0
+          },
+          {
+            "foldername": "c4",
+            "fingerprint": 2527510518,
+            "type": 0
+          },
+          {
+            "foldername": "licenses",
+            "fingerprint": 3602596313,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4049748245,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1445967504,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1938539565,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "conarm-1.12.2-1.2.5.4.jar"
+      },
+      "dateInstalled": "2020-04-22T16:31:48.9033754Z",
+      "dateUpdated": "2020-04-22T16:31:48.905339Z",
+      "dateLastUpdateAttempted": "2020-04-22T16:31:48.905339Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 32274,
+      "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
+      "installedFile": {
+        "id": 2916002,
+        "displayName": "journeymap-1.12.2-5.7.1",
+        "fileName": "journeymap-1.12.2-5.7.1.jar",
+        "fileDate": "2020-03-29T21:09:22.773Z",
+        "fileLength": 6990968,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2916/2/journeymap-1.12.2-5.7.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 2916003,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 226005,
+            "type": 4,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1736787495,
+            "type": 0
+          },
+          {
+            "foldername": "journeymap",
+            "fingerprint": 2876717480,
+            "type": 0
+          },
+          {
+            "foldername": "modinfo",
+            "fingerprint": 3257172988,
+            "type": 0
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 1429981559,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1383692062,
+            "type": 0
+          },
+          {
+            "foldername": "license.txt",
+            "fingerprint": 3989053437,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3632965706,
+            "type": 0
+          },
+          {
+            "foldername": "dummyThing",
+            "fingerprint": 79582461,
+            "type": 0
+          },
+          {
+            "foldername": "info",
+            "fingerprint": 2511953692,
+            "type": 0
+          },
+          {
+            "foldername": "LICENSE.txt",
+            "fingerprint": 1185419476,
+            "type": 0
+          },
+          {
+            "foldername": "NOTICE.txt",
+            "fingerprint": 3411389661,
+            "type": 0
+          },
+          {
+            "foldername": "about.html",
+            "fingerprint": 1421502970,
+            "type": 0
+          },
+          {
+            "foldername": "org",
+            "fingerprint": 2373182980,
+            "type": 0
+          },
+          {
+            "foldername": "jetty-dir.css",
+            "fingerprint": 4183154058,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1076064603,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "journeymap-1.12.2-5.7.1.jar"
+      },
+      "dateInstalled": "2020-04-22T16:30:36.49526Z",
+      "dateUpdated": "2020-04-22T16:30:36.5062305Z",
+      "dateLastUpdateAttempted": "2020-04-22T16:30:36.5062305Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 250363,
+      "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
+      "installedFile": {
+        "id": 2746011,
+        "displayName": "AutoRegLib-1.3-32.jar",
+        "fileName": "AutoRegLib-1.3-32.jar",
+        "fileDate": "2019-07-22T11:42:20Z",
+        "fileLength": 108306,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2746/11/AutoRegLib-1.3-32.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2909822131,
+            "type": 0
+          },
+          {
+            "foldername": "vazkii",
+            "fingerprint": 2108119070,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1346084177,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2714767204,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 69589181,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "AutoRegLib-1.3-32.jar"
+      },
+      "dateInstalled": "2020-04-22T16:42:04.3095319Z",
+      "dateUpdated": "2020-04-22T16:42:04.3125236Z",
+      "dateLastUpdateAttempted": "2020-04-22T16:42:04.3125236Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 250957,
+      "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
+      "installedFile": {
+        "id": 2630860,
+        "displayName": "TinkerToolLeveling-1.12.2-1.1.0.jar",
+        "fileName": "TinkerToolLeveling-1.12.2-1.1.0.jar",
+        "fileDate": "2018-10-23T17:43:40.243Z",
+        "fileLength": 95850,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2630/860/TinkerToolLeveling-1.12.2-1.1.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 74924,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 74072,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3869564845,
+            "type": 0
+          },
+          {
+            "foldername": "slimeknights",
+            "fingerprint": 3257431995,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 881944842,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 61804168,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 15427281,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1563429384,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "TinkerToolLeveling-1.12.2-1.1.0.jar"
+      },
+      "dateInstalled": "2020-04-22T16:31:14.2965739Z",
+      "dateUpdated": "2020-04-22T16:31:14.2985698Z",
+      "dateLastUpdateAttempted": "2020-04-22T16:31:14.2985698Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 74072,
+      "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
+      "installedFile": {
+        "id": 2902483,
+        "displayName": "TConstruct-1.12.2-2.13.0.183.jar",
+        "fileName": "TConstruct-1.12.2-2.13.0.183.jar",
+        "fileDate": "2020-03-15T17:02:37.37Z",
+        "fileLength": 4023372,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2902/483/TConstruct-1.12.2-2.13.0.183.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 74924,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4217453615,
+            "type": 0
+          },
+          {
+            "foldername": "slimeknights",
+            "fingerprint": 65780644,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 219889385,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4039906649,
+            "type": 0
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 3056415901,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 341838363,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3094578446,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "TConstruct-1.12.2-2.13.0.183.jar"
+      },
+      "dateInstalled": "2020-04-22T16:31:04.8846801Z",
+      "dateUpdated": "2020-04-22T16:31:04.8916612Z",
+      "dateLastUpdateAttempted": "2020-04-22T16:31:04.8916612Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 238222,
+      "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
+      "installedFile": {
+        "id": 2803400,
+        "displayName": "jei_1.12.2-4.15.0.291.jar",
+        "fileName": "jei_1.12.2-4.15.0.291.jar",
+        "fileDate": "2019-10-07T01:20:32.567Z",
+        "fileLength": 651473,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2803/400/jei_1.12.2-4.15.0.291.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3894020924,
+            "type": 0
+          },
+          {
+            "foldername": "mezz",
+            "fingerprint": 2909248480,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3888864790,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1488642189,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4278251486,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3391578337,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "jei_1.12.2-4.15.0.291.jar"
+      },
+      "dateInstalled": "2020-04-22T16:30:21.3480457Z",
+      "dateUpdated": "2020-04-22T16:30:21.3549985Z",
+      "dateLastUpdateAttempted": "2020-04-22T16:30:21.3549985Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 243121,
+      "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
+      "installedFile": {
+        "id": 2924091,
+        "displayName": "Quark-r1.6-179.jar",
+        "fileName": "Quark-r1.6-179.jar",
+        "fileDate": "2020-04-08T04:49:50.967Z",
+        "fileLength": 3877577,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2924/91/Quark-r1.6-179.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 250363,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3236539367,
+            "type": 0
+          },
+          {
+            "foldername": "vazkii",
+            "fingerprint": 1445870801,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3613315758,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3433932295,
+            "type": 0
+          },
+          {
+            "foldername": "proxypack.mcmeta",
+            "fingerprint": 3313685099,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2910837341,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Quark-r1.6-179.jar"
+      },
+      "dateInstalled": "2020-04-22T16:42:05.4706221Z",
+      "dateUpdated": "2020-04-22T16:42:05.4756082Z",
+      "dateLastUpdateAttempted": "2020-04-22T16:42:05.4756082Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 239286,
+      "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
+      "installedFile": {
+        "id": 2934381,
+        "displayName": "Cyclic-1.12.2-1.20.2.jar",
+        "fileName": "Cyclic-1.12.2-1.20.2.jar",
+        "fileDate": "2020-04-19T06:48:28.72Z",
+        "fileLength": 3991719,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2934/381/Cyclic-1.12.2-1.20.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 228832,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 309927,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 227083,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 239197,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 250419,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 238222,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4188272853,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3176064591,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3679249935,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 497752783,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 880002859,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Cyclic-1.12.2-1.20.2.jar"
+      },
+      "dateInstalled": "2020-04-22T16:36:57.0143904Z",
+      "dateUpdated": "2020-04-22T16:36:57.022383Z",
+      "dateLastUpdateAttempted": "2020-04-22T16:36:57.022383Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 74924,
+      "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
+      "installedFile": {
+        "id": 2713386,
+        "displayName": "Mantle-1.12-1.3.3.55.jar",
+        "fileName": "Mantle-1.12-1.3.3.55.jar",
+        "fileDate": "2019-05-19T20:21:43.573Z",
+        "fileLength": 843486,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2713/386/Mantle-1.12-1.3.3.55.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2519310866,
+            "type": 0
+          },
+          {
+            "foldername": "slimeknights",
+            "fingerprint": 3140161402,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 770502493,
+            "type": 0
+          },
+          {
+            "foldername": "Mantle.png",
+            "fingerprint": 3296224890,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1859416522,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2810798110,
+        "gameVersion": [
+          "1.12",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Mantle-1.12-1.3.3.55.jar"
+      },
+      "dateInstalled": "2020-04-22T16:31:03.5196986Z",
+      "dateUpdated": "2020-04-22T16:31:03.5216932Z",
+      "dateLastUpdateAttempted": "2020-04-22T16:31:03.5216932Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 305070,
+      "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
+      "installedFile": {
+        "id": 2628925,
+        "displayName": "TMechworks-1.12.2-1.0.0",
+        "fileName": "TMechworks-1.12.2-1.0.0.jar",
+        "fileDate": "2018-10-17T22:07:20.26Z",
+        "fileLength": 142683,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2628/925/TMechworks-1.12.2-1.0.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "assets",
+            "fingerprint": 2518473941,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 13725128,
+            "type": 0
+          },
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1211676358,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 562525343,
+            "type": 0
+          },
+          {
+            "foldername": "slimeknights",
+            "fingerprint": 3996006122,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3005342892,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "TMechworks-1.12.2-1.0.0.jar"
+      },
+      "dateInstalled": "2020-04-22T16:31:40.3923193Z",
+      "dateUpdated": "2020-04-22T16:31:40.3953149Z",
+      "dateLastUpdateAttempted": "2020-04-22T16:31:40.3953149Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    }
+  ],
   "isMigrated": false,
   "preferenceUploadProfile": false
 }
