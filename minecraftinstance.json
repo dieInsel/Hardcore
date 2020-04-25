@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-04-24T19:10:58.9824203Z",
+  "lastPlayed": "2020-04-25T10:29:38.5773886Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -3152,7 +3152,7 @@
       "dateInstalled": "2020-04-23T15:38:26.1231398Z",
       "dateUpdated": "2020-04-23T15:38:26.1411214Z",
       "dateLastUpdateAttempted": "2020-04-23T15:38:26.1411214Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3462,6 +3462,78 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 321117,
+      "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
+      "installedFile": {
+        "id": 2914992,
+        "displayName": "TravellersBackpack-1.12.2-1.0.23.23.jar",
+        "fileName": "TravellersBackpack-1.12.2-1.0.23.23.jar",
+        "fileDate": "2020-03-28T16:30:50.263Z",
+        "fileLength": 386018,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2914/992/TravellersBackpack-1.12.2-1.0.23.23.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3537962684,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 179102875,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1414945735,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3056148290,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3273911401,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3458548970,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "TravellersBackpack-1.12.2-1.0.23.23.jar"
+      },
+      "dateInstalled": "2020-04-25T10:29:21.5384998Z",
+      "dateUpdated": "2020-04-25T10:29:21.5524334Z",
+      "dateLastUpdateAttempted": "2020-04-25T10:29:21.5524334Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 265642,
