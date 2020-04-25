@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "bhc:main/green_heart_canister": {
+    "criteria": {
+      "green_heart_canister_in_inventory": "2020-04-25 15:45:16 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_the_recipe": "2020-04-23 17:30:59 +0200"
@@ -368,6 +374,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2020-04-23 17:30:59 +0200"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "fire": "2020-04-25 16:17:40 +0200"
     },
     "done": true
   },
@@ -482,6 +494,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_the_recipe": "2020-04-23 17:30:59 +0200"
+    },
+    "done": true
+  },
+  "bhc:main/red_heart_canister": {
+    "criteria": {
+      "red_heart_canister_in_inventory": "2020-04-25 15:45:15 +0200"
     },
     "done": true
   },
@@ -674,7 +692,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2020-04-23 17:37:07 +0200",
-      "zombie": "2020-04-23 17:37:13 +0200"
+      "zombie": "2020-04-23 17:37:13 +0200",
+      "creeper": "2020-04-25 16:09:45 +0200"
     },
     "done": false
   },
@@ -753,6 +772,12 @@
   "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2020-04-23 17:30:59 +0200"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "fire": "2020-04-25 16:16:33 +0200"
     },
     "done": true
   },
@@ -1366,6 +1391,12 @@
     },
     "done": true
   },
+  "bhc:main/orange_heart_canister": {
+    "criteria": {
+      "orange_heart_canister_in_inventory": "2020-04-25 15:45:15 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2020-04-23 17:30:59 +0200"
@@ -1666,6 +1697,12 @@
     },
     "done": true
   },
+  "bhc:main/heart_amulet": {
+    "criteria": {
+      "heart_amulet_in_inventory": "2020-04-25 15:46:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
       "has_the_recipe": "2020-04-23 17:30:59 +0200"
@@ -1786,6 +1823,12 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "time_button": "2020-04-25 18:05:39 +0200"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_the_recipe": "2020-04-23 17:30:59 +0200"
@@ -1813,6 +1856,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_the_recipe": "2020-04-23 17:30:59 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "tooltable1": "2020-04-25 15:54:14 +0200"
     },
     "done": true
   },
@@ -2425,6 +2474,12 @@
   "minecraft:recipes/building_blocks/jungle_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2020-04-23 17:30:59 +0200"
+    },
+    "done": true
+  },
+  "bhc:main/blue_heart_canister": {
+    "criteria": {
+      "blue_heart_canister_in_inventory": "2020-04-25 15:45:17 +0200"
     },
     "done": true
   },
