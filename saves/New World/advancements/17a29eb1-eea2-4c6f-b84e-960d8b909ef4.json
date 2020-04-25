@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "bhc:main/green_heart_canister": {
+    "criteria": {
+      "green_heart_canister_in_inventory": "2020-04-23 10:39:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_the_recipe": "2020-04-22 18:43:54 +0200"
@@ -452,6 +458,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_the_recipe": "2020-04-22 18:43:55 +0200"
+    },
+    "done": true
+  },
+  "bhc:main/red_heart_canister": {
+    "criteria": {
+      "red_heart_canister_in_inventory": "2020-04-23 10:39:14 +0200"
     },
     "done": true
   },
@@ -674,12 +686,6 @@
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_the_recipe": "2020-04-22 18:43:55 +0200"
-    },
-    "done": true
-  },
-  "aoa3:overworld/root": {
-    "criteria": {
-      "playerjoin": "2020-04-22 18:50:11 +0200"
     },
     "done": true
   },
@@ -1250,6 +1256,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_the_recipe": "2020-04-22 18:43:55 +0200"
+    },
+    "done": true
+  },
+  "bhc:main/orange_heart_canister": {
+    "criteria": {
+      "orange_heart_canister_in_inventory": "2020-04-23 10:39:16 +0200"
     },
     "done": true
   },
@@ -1871,12 +1883,6 @@
     },
     "done": true
   },
-  "aoa3:immortallis/seeking_vengeance": {
-    "criteria": {
-      "vulcane_obtain": "2020-04-22 18:53:12 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2020-04-22 18:43:55 +0200"
@@ -1964,12 +1970,6 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2020-04-22 18:43:55 +0200"
-    },
-    "done": true
-  },
-  "aoa3:overworld/by_the_books": {
-    "criteria": {
-      "legitimate": "2020-04-22 18:50:11 +0200"
     },
     "done": true
   },
@@ -2276,6 +2276,12 @@
   "minecraft:recipes/building_blocks/jungle_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2020-04-22 18:43:55 +0200"
+    },
+    "done": true
+  },
+  "bhc:main/blue_heart_canister": {
+    "criteria": {
+      "blue_heart_canister_in_inventory": "2020-04-23 10:39:19 +0200"
     },
     "done": true
   },
