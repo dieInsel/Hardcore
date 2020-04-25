@@ -383,6 +383,18 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2020-04-25 14:24:38 +0200"
+    },
+    "done": true
+  },
+  "ebwizardry:apprentice": {
+    "criteria": {
+      "magic": "2020-04-25 14:41:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_the_recipe": "2020-04-23 17:30:59 +0200"
@@ -786,6 +798,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2020-04-25 14:24:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_the_recipe": "2020-04-23 17:30:59 +0200"
@@ -873,6 +891,12 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_the_recipe": "2020-04-23 17:30:59 +0200"
+    },
+    "done": true
+  },
+  "ebwizardry:advanced": {
+    "criteria": {
+      "magic": "2020-04-25 14:41:04 +0200"
     },
     "done": true
   },
@@ -1143,6 +1167,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "skeleton": "2020-04-23 17:37:07 +0200"
+    },
+    "done": true
+  },
+  "wizardry:advancement_book": {
+    "criteria": {
+      "craft_book": "2020-04-25 14:42:37 +0200"
     },
     "done": true
   },
@@ -1492,6 +1522,12 @@
     },
     "done": true
   },
+  "ebwizardry:arcane_initiate": {
+    "criteria": {
+      "criteria_0": "2020-04-25 14:41:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed": {
     "criteria": {
       "has_the_recipe": "2020-04-23 17:30:59 +0200"
@@ -1732,6 +1768,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2020-04-25 14:38:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2020-04-23 17:30:58 +0200"
@@ -1825,6 +1867,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_the_recipe": "2020-04-23 17:30:59 +0200"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2020-04-25 14:24:34 +0200"
     },
     "done": true
   },
