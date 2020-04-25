@@ -1759,3 +1759,20 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [18:10:31] [Client thread/INFO]: [CHAT] The hunt for blood has begun!
 [18:12:11] [Server thread/INFO]: Saving and pausing game...
 [18:12:11] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[18:56:19] [Server thread/INFO]: [DieInsel: Set the time to 0]
+[18:56:19] [Client thread/INFO]: [CHAT] Set the time to 0
+[18:57:10] [Server thread/INFO]: Saving and pausing game...
+[18:57:11] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[18:57:11] [Server thread/INFO]: Saving and pausing game...
+[18:57:11] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[18:57:12] [Client thread/INFO]: Mapping halted in C:\Users\Sebwo\Documents\Curse\Minecraft\Instances\Hardcore\journeymap\data\sp\New World~\DIM0
+[18:57:12] [Server thread/INFO]: Stopping server
+[18:57:12] [Server thread/INFO]: Saving players
+[18:57:12] [Server thread/INFO]: DieInsel lost connection: Disconnected
+[18:57:12] [Server thread/INFO]: DieInsel left the game
+[18:57:12] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[18:57:12] [Server thread/INFO]: Saving worlds
+[18:57:12] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[18:57:13] [Server thread/INFO]: Unloading dimension 0
+[18:57:19] [Server thread/INFO]: Applying holder lookups
+[18:57:19] [Server thread/INFO]: Holder lookups applied

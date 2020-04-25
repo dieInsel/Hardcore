@@ -85,3 +85,4 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 [15:52:16] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Sebwo\Documents\Curse\Minecraft\Instances\Hardcore\journeymap\data\sp\New World~\DIM0. Memory: 3561MB total, 1433MB free 
 [15:52:16] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
 [16:06:59] [Client thread/ERROR] [JMLogger] Can't get entityTexture for class net.tslat.aoa3.entity.mobs.overworld.EntityShadow via class net.tslat.aoa3.client.render.entities.mobs.overworld.ShadowRenderer (SUPPRESSED)
+[18:57:12] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Sebwo\Documents\Curse\Minecraft\Instances\Hardcore\journeymap\data\sp\New World~\DIM0
