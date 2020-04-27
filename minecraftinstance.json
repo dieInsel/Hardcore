@@ -347,158 +347,14 @@
     },
     {
       "folderName": "New World-",
-      "fingerprint": 2283961625,
-      "fileDateHash": 1676794878,
+      "fingerprint": 0,
+      "fileDateHash": 2793948012,
       "sectionID": 10,
-      "individualFingerprints": [
-        387545798,
-        475039760,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        489458212,
-        517834541,
-        536391041,
-        639967576,
-        657132963,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        815677636,
-        851861591,
-        1067150872,
-        1198202091,
-        1254400901,
-        1303278220,
-        1454060752,
-        1499178680,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1540447798,
-        1696825492,
-        1857342627,
-        1934009691,
-        2285834784,
-        2326190353,
-        2356227997,
-        2438022517,
-        2691338647,
-        2698692267,
-        2866145806,
-        2866145806,
-        2960791022,
-        3177965112,
-        3594342075,
-        3664892572,
-        3723819078,
-        3756261300,
-        3820414998,
-        3977176744,
-        4036638479,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591,
-        4211002591
-      ],
-      "status": 1,
-      "timestamp": "2020-04-25T13:43:01.8082906Z",
-      "lastWriteTimeUtc": "2020-04-25T13:38:51.9775245Z",
-      "queryTimestamp": "2020-04-25T13:43:02.4156419Z",
+      "individualFingerprints": null,
+      "status": 4,
+      "timestamp": "2020-04-25T15:51:58.2994308Z",
+      "lastWriteTimeUtc": "2020-04-25T15:51:28.8212427Z",
+      "queryTimestamp": "0001-01-01T00:00:00",
       "fileCount": 40,
       "fileSize": 0
     },
@@ -810,21 +666,6 @@
       "fileSize": 3877577
     },
     {
-      "folderName": "TinkerToolLeveling-1.12.2-1.1.0.jar",
-      "fingerprint": 1563429384,
-      "fileDateHash": 3884832504,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1563429384
-      ],
-      "status": 1,
-      "timestamp": "2020-04-22T18:34:21.7789806Z",
-      "lastWriteTimeUtc": "2020-04-22T16:31:14.2956123Z",
-      "queryTimestamp": "2020-04-24T19:08:14.6951714Z",
-      "fileCount": 1,
-      "fileSize": 95850
-    },
-    {
       "folderName": "MagicalPsi-1.3.2.jar",
       "fingerprint": 1309992467,
       "fileDateHash": 1396361439,
@@ -838,6 +679,21 @@
       "queryTimestamp": "2020-04-24T19:08:14.6951714Z",
       "fileCount": 1,
       "fileSize": 1433897
+    },
+    {
+      "folderName": "TinkerToolLeveling-1.12.2-1.1.0.jar",
+      "fingerprint": 1563429384,
+      "fileDateHash": 3884832504,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1563429384
+      ],
+      "status": 1,
+      "timestamp": "2020-04-22T18:34:21.7789806Z",
+      "lastWriteTimeUtc": "2020-04-22T16:31:14.2956123Z",
+      "queryTimestamp": "2020-04-24T19:08:14.6951714Z",
+      "fileCount": 1,
+      "fileSize": 95850
     },
     {
       "folderName": "MTLib-3.0.6.jar",
@@ -855,21 +711,6 @@
       "fileSize": 30002
     },
     {
-      "folderName": "FTBBackups-1.1.0.1.jar",
-      "fingerprint": 752442057,
-      "fileDateHash": 3019195604,
-      "sectionID": 8,
-      "individualFingerprints": [
-        752442057
-      ],
-      "status": 1,
-      "timestamp": "2020-04-25T13:43:01.7803634Z",
-      "lastWriteTimeUtc": "2020-04-24T19:10:20.3074974Z",
-      "queryTimestamp": "2020-04-25T13:43:02.4176372Z",
-      "fileCount": 1,
-      "fileSize": 43764
-    },
-    {
       "folderName": "Forgelin-1.8.4.jar",
       "fingerprint": 387064965,
       "fileDateHash": 100623008,
@@ -883,6 +724,21 @@
       "queryTimestamp": "2020-04-24T19:08:14.6961618Z",
       "fileCount": 1,
       "fileSize": 6278399
+    },
+    {
+      "folderName": "FTBBackups-1.1.0.1.jar",
+      "fingerprint": 752442057,
+      "fileDateHash": 3019195604,
+      "sectionID": 8,
+      "individualFingerprints": [
+        752442057
+      ],
+      "status": 1,
+      "timestamp": "2020-04-25T13:43:01.7803634Z",
+      "lastWriteTimeUtc": "2020-04-24T19:10:20.3074974Z",
+      "queryTimestamp": "2020-04-25T13:43:02.4176372Z",
+      "fileCount": 1,
+      "fileSize": 43764
     },
     {
       "folderName": "llibrary-1.7.19-1.12.2.jar",
@@ -901,7 +757,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2020-04-25T13:43:02.7627141Z",
+  "lastPreviousMatchUpdate": "2020-04-25T15:51:58.950986Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -985,7 +841,7 @@
       "dateInstalled": "2020-04-24T19:05:18.2178321Z",
       "dateUpdated": "2020-04-24T19:05:18.2198075Z",
       "dateLastUpdateAttempted": "2020-04-24T19:05:18.2198075Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1199,7 +1055,7 @@
       "dateInstalled": "2020-04-24T19:10:20.3104954Z",
       "dateUpdated": "2020-04-24T19:10:20.3154763Z",
       "dateLastUpdateAttempted": "2020-04-24T19:10:20.3154763Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2021,6 +1877,82 @@
       "installedTargets": null
     },
     {
+      "addonID": 252354,
+      "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
+      "installedFile": {
+        "id": 2464501,
+        "displayName": "OpenGlider-1.12.2-1.1.0.jar",
+        "fileName": "OpenGlider-1.12.1-1.1.0.jar",
+        "fileDate": "2017-08-14T17:32:26.4Z",
+        "fileLength": 109626,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2464/501/OpenGlider-1.12.1-1.1.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 238222,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1205595172,
+            "type": 0
+          },
+          {
+            "foldername": "gr8pefish",
+            "fingerprint": 686564461,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 299602183,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2316170734,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2202802694,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "OpenGlider-1.12.1-1.1.0.jar"
+      },
+      "dateInstalled": "2020-04-27T11:58:24.2941198Z",
+      "dateUpdated": "2020-04-27T11:58:24.3110693Z",
+      "dateLastUpdateAttempted": "2020-04-27T11:58:24.3110693Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 238222,
       "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
       "installedFile": {
@@ -2413,79 +2345,7 @@
       "dateInstalled": "2020-04-24T19:05:18.6359599Z",
       "dateUpdated": "2020-04-24T19:05:18.6409273Z",
       "dateLastUpdateAttempted": "2020-04-24T19:05:18.6409273Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 311054,
-      "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
-      "installedFile": {
-        "id": 2678793,
-        "displayName": "AoA3-3.0",
-        "fileName": "aoa3-3.0.jar",
-        "fileDate": "2019-02-22T22:36:55.5Z",
-        "fileLength": 64330399,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2678/793/aoa3-3.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2099302515,
-            "type": 0
-          },
-          {
-            "foldername": "net",
-            "fingerprint": 1851646151,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3382735145,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 1456504721,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 958162322,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 562050216,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "aoa3-3.0.jar"
-      },
-      "dateInstalled": "2020-04-22T18:41:35.5917192Z",
-      "dateUpdated": "2020-04-22T18:41:35.6425825Z",
-      "dateLastUpdateAttempted": "2020-04-22T18:41:35.6425825Z",
-      "status": 3,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2613,6 +2473,78 @@
       "dateUpdated": "2020-04-23T15:40:51.4731482Z",
       "dateLastUpdateAttempted": "2020-04-23T15:40:51.4731482Z",
       "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 311054,
+      "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
+      "installedFile": {
+        "id": 2678793,
+        "displayName": "AoA3-3.0",
+        "fileName": "aoa3-3.0.jar",
+        "fileDate": "2019-02-22T22:36:55.5Z",
+        "fileLength": 64330399,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2678/793/aoa3-3.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2099302515,
+            "type": 0
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 1851646151,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3382735145,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1456504721,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 958162322,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 562050216,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "aoa3-3.0.jar"
+      },
+      "dateInstalled": "2020-04-22T18:41:35.5917192Z",
+      "dateUpdated": "2020-04-22T18:41:35.6425825Z",
+      "dateLastUpdateAttempted": "2020-04-22T18:41:35.6425825Z",
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3280,115 +3212,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 252910,
-      "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
-      "installedFile": {
-        "id": 2836225,
-        "displayName": "librarianlib-1.12.2-4.20.jar",
-        "fileName": "librarianlib-1.12.2-4.20-release.jar",
-        "fileDate": "2019-12-03T15:38:33.623Z",
-        "fileLength": 40706851,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2836/225/librarianlib-1.12.2-4.20-release.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 248453,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 389771204,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 2863301146,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 1445732537,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1934805142,
-            "type": 0
-          },
-          {
-            "foldername": "logo_LibrarianLib.png",
-            "fingerprint": 2732274956,
-            "type": 0
-          },
-          {
-            "foldername": "org",
-            "fingerprint": 1016702979,
-            "type": 0
-          },
-          {
-            "foldername": "editorShortcuts.txt",
-            "fingerprint": 1996539088,
-            "type": 0
-          },
-          {
-            "foldername": "games",
-            "fingerprint": 965626761,
-            "type": 0
-          },
-          {
-            "foldername": "LICENSE",
-            "fingerprint": 735288344,
-            "type": 0
-          },
-          {
-            "foldername": "kotlin",
-            "fingerprint": 3590114235,
-            "type": 0
-          },
-          {
-            "foldername": "it",
-            "fingerprint": 443755085,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 1907703852,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "librarianlib-1.12.2-4.20-release.jar"
-      },
-      "dateInstalled": "2020-04-23T15:40:10.5615219Z",
-      "dateUpdated": "2020-04-23T15:40:10.5944312Z",
-      "dateLastUpdateAttempted": "2020-04-23T15:40:10.5944312Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 287683,
       "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
       "installedFile": {
@@ -3513,6 +3336,115 @@
       "installedTargets": null
     },
     {
+      "addonID": 252910,
+      "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
+      "installedFile": {
+        "id": 2836225,
+        "displayName": "librarianlib-1.12.2-4.20.jar",
+        "fileName": "librarianlib-1.12.2-4.20-release.jar",
+        "fileDate": "2019-12-03T15:38:33.623Z",
+        "fileLength": 40706851,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2836/225/librarianlib-1.12.2-4.20-release.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 248453,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 389771204,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2863301146,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1445732537,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1934805142,
+            "type": 0
+          },
+          {
+            "foldername": "logo_LibrarianLib.png",
+            "fingerprint": 2732274956,
+            "type": 0
+          },
+          {
+            "foldername": "org",
+            "fingerprint": 1016702979,
+            "type": 0
+          },
+          {
+            "foldername": "editorShortcuts.txt",
+            "fingerprint": 1996539088,
+            "type": 0
+          },
+          {
+            "foldername": "games",
+            "fingerprint": 965626761,
+            "type": 0
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 735288344,
+            "type": 0
+          },
+          {
+            "foldername": "kotlin",
+            "fingerprint": 3590114235,
+            "type": 0
+          },
+          {
+            "foldername": "it",
+            "fingerprint": 443755085,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1907703852,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "librarianlib-1.12.2-4.20-release.jar"
+      },
+      "dateInstalled": "2020-04-23T15:40:10.5615219Z",
+      "dateUpdated": "2020-04-23T15:40:10.5944312Z",
+      "dateLastUpdateAttempted": "2020-04-23T15:40:10.5944312Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 321117,
       "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
       "installedFile": {
@@ -3573,7 +3505,7 @@
       "dateInstalled": "2020-04-25T10:29:21.5384998Z",
       "dateUpdated": "2020-04-25T10:29:21.5524334Z",
       "dateLastUpdateAttempted": "2020-04-25T10:29:21.5524334Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3582,7 +3514,80 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
+    },
+    {
+      "addonID": 237167,
+      "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
+      "installedFile": {
+        "id": 2891572,
+        "displayName": "FTBLib-5.4.7.0.jar",
+        "fileName": "FTBLib-5.4.7.0.jar",
+        "fileDate": "2020-02-28T23:29:29.903Z",
+        "fileLength": 934566,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2891/572/FTBLib-5.4.7.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2712236318,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 1845115150,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2120759837,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4118649540,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1468686229,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2660314712,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "FTBLib-5.4.7.0.jar"
+      },
+      "dateInstalled": "2020-04-24T19:05:17.9500525Z",
+      "dateUpdated": "2020-04-24T19:05:17.9580355Z",
+      "dateLastUpdateAttempted": "2020-04-24T19:05:17.9580355Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
     },
     {
       "addonID": 265642,
@@ -3671,79 +3676,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 237167,
-      "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
-      "installedFile": {
-        "id": 2891572,
-        "displayName": "FTBLib-5.4.7.0.jar",
-        "fileName": "FTBLib-5.4.7.0.jar",
-        "fileDate": "2020-02-28T23:29:29.903Z",
-        "fileLength": 934566,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2891/572/FTBLib-5.4.7.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2712236318,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 1845115150,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2120759837,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 4118649540,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1468686229,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2660314712,
-        "gameVersion": [
-          "Forge",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "FTBLib-5.4.7.0.jar"
-      },
-      "dateInstalled": "2020-04-24T19:05:17.9500525Z",
-      "dateUpdated": "2020-04-24T19:05:17.9580355Z",
-      "dateLastUpdateAttempted": "2020-04-24T19:05:17.9580355Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 253449,
       "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
       "installedFile": {
@@ -3804,7 +3736,7 @@
       "dateInstalled": "2020-04-25T12:25:13.6206821Z",
       "dateUpdated": "2020-04-25T12:25:13.6276818Z",
       "dateLastUpdateAttempted": "2020-04-25T12:25:13.6276818Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3813,7 +3745,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 237102,
@@ -3895,7 +3827,7 @@
       "dateInstalled": "2020-04-24T19:10:20.544853Z",
       "dateUpdated": "2020-04-24T19:10:20.5491442Z",
       "dateLastUpdateAttempted": "2020-04-24T19:10:20.5491442Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
