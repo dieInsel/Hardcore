@@ -1,0 +1,189 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  llibrary (llibrary-core-1.0.11-1.12.2.jar)
+  LibrarianLib Plugin (librarianlib-1.12.2-4.20-release.jar)
+  ForgelinPlugin (Forgelin-1.8.4.jar)
+  Wizardry Plugin (wizardry-0.10.8.jar)
+  Quark Plugin (Quark-r1.6-179.jar)
+  CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+Contact their authors BEFORE contacting forge
+
+// Surprise! Haha. Well, this is awkward.
+
+Time: 4/27/20 7:10 PM
+Description: Ticking entity
+
+java.lang.NullPointerException: Ticking entity
+	at com.teamcqr.chocolatequestrepoured.objects.entity.ai.target.EntityAIHurtByTarget.func_75250_a(EntityAIHurtByTarget.java:52)
+	at net.minecraft.entity.ai.EntityAITasks.func_75774_a(SourceFile:94)
+	at net.minecraft.entity.EntityLiving.func_70626_be(EntityLiving.java:760)
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2359)
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577)
+	at com.teamcqr.chocolatequestrepoured.objects.entity.bases.AbstractEntityCQR.func_70636_d(AbstractEntityCQR.java:533)
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179)
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295)
+	at com.teamcqr.chocolatequestrepoured.objects.entity.bases.AbstractEntityCQR.func_70071_h_(AbstractEntityCQR.java:463)
+	at net.minecraft.world.World.func_72866_a(World.java:1996)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1958)
+	at net.minecraft.world.World.func_72939_s(World.java:1762)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at com.teamcqr.chocolatequestrepoured.objects.entity.ai.target.EntityAIHurtByTarget.func_75250_a(EntityAIHurtByTarget.java:52)
+	at net.minecraft.entity.ai.EntityAITasks.func_75774_a(SourceFile:94)
+	at net.minecraft.entity.EntityLiving.func_70626_be(EntityLiving.java:760)
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2359)
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577)
+	at com.teamcqr.chocolatequestrepoured.objects.entity.bases.AbstractEntityCQR.func_70636_d(AbstractEntityCQR.java:533)
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179)
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295)
+	at com.teamcqr.chocolatequestrepoured.objects.entity.bases.AbstractEntityCQR.func_70071_h_(AbstractEntityCQR.java:463)
+	at net.minecraft.world.World.func_72866_a(World.java:1996)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1958)
+
+-- Entity being ticked --
+Details:
+	Entity Type: cqrepoured:skeleton (com.teamcqr.chocolatequestrepoured.objects.entity.mobs.EntityCQRSkeleton)
+	Entity ID: 47185
+	Entity Name: Skeleton
+	Entity's Exact location: 1551.63, 64.64, 46.11
+	Entity's Block location: World: (1551,64,46), Chunk: (at 15,4,14 in 96,2; contains blocks 1536,0,32 to 1551,255,47), Region: (3,0; contains chunks 96,0 to 127,31, blocks 1536,0,0 to 2047,255,511)
+	Entity's Momentum: 0.20, 0.19, -0.03
+	Entity's Passengers: []
+	Entity's Vehicle: ~~ERROR~~ NullPointerException: null
+Stacktrace:
+	at net.minecraft.world.World.func_72939_s(World.java:1762)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+
+-- Affected level --
+Details:
+	Level name: New World
+	All players: 1 total; [EntityPlayerMP['DieInsel'/315, l='New World', x=1549.60, y=65.00, z=46.42]]
+	Chunk stats: ServerChunkCache: 553 Drop: 0
+	Level seed: -5516666174193495189
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: {"diamondSize":8,"lapisCenterHeight":16,"lavaLakeChance":80,"redstoneMaxHeight":16,"diamondMaxHeight":16,"coalMaxHeight":128,"coalMinHeight":0,"seaLevel":63,"graniteCount":10,"riverSize":4,"gravelMinHeight":0,"graniteSize":33,"redstoneSize":8,"fixedBiome":-1,"waterLakeChance":4,"dioriteMinHeight":0,"andesiteCount":10,"graniteMaxHeight":80,"redstoneMinHeight":0,"lapisSize":7,"dirtCount":10,"ironMinHeight":0,"dioriteMaxHeight":80,"coalCount":20,"gravelCount":8,"coalSize":17,"gravelSize":33,"ironMaxHeight":64,"lapisSpread":16,"dioriteCount":10,"andesiteSize":33,"biomeSize":4,"graniteMinHeight":0,"goldCount":2,"diamondCount":1,"dirtSize":33,"gravelMaxHeight":256,"goldSize":9,"ironCount":20,"diamondMinHeight":0,"ironSize":9,"redstoneCount":8,"andesiteMinHeight":0,"dioriteSize":33,"goldMaxHeight":32,"dungeonChance":8,"andesiteMaxHeight":80,"dirtMinHeight":0,"lapisCount":1,"goldMinHeight":0,"dirtMaxHeight":256,"lowerLimitScale":512.0,"biomeDepthOffset":0.0,"upperLimitScale":512.0,"heightScale":684.412,"biomeScaleWeight":1.0,"biomeDepthWeight":1.0,"mainNoiseScaleZ":80.0,"mainNoiseScaleY":160.0,"depthNoiseScaleX":200.0,"mainNoiseScaleX":80.0,"baseSize":8.5,"depthNoiseScaleZ":200.0,"stretchY":12.0,"depthNoiseScaleExponent":0.5,"biomeScaleOffset":0.0,"coordinateScale":684.412,"useStrongholds":true,"useMineShafts":true,"useTemples":true,"useLavaOceans":false,"useCaves":true,"useWaterLakes":true,"useLavaLakes":true,"useMonuments":true,"useRavines":true,"useDungeons":true,"useVillages":true}
+	Level spawn location: World: (100,64,4), Chunk: (at 4,4,4 in 6,0; contains blocks 96,0,0 to 111,255,15), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 429916 game time, 31582 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 34045 (now: false), thunder time: 51364 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: true
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:745)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 1596228464 bytes (1522 MB) / 3728211968 bytes (3555 MB) up to 5726797824 bytes (5461 MB)
+	JVM Flags: 4 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx6144m -Xms256m -XX:PermSize=256m
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	FML: MCP 9.42 Powered by Forge 14.23.5.2854 44 mods loaded, 44 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID                 | Version                  | Source                                        | Signature                                |
+	|:------ |:------------------ |:------------------------ |:--------------------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft          | 1.12.2                   | minecraft.jar                                 | None                                     |
+	| LCHIJA | mcp                | 9.42                     | minecraft.jar                                 | None                                     |
+	| LCHIJA | FML                | 8.0.99.99                | forge-1.12.2-14.23.5.2854.jar                 | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | forge              | 14.23.5.2854             | forge-1.12.2-14.23.5.2854.jar                 | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | aoa3               | 3.0                      | aoa3-3.0.jar                                  | None                                     |
+	| LCHIJA | jei                | 4.15.0.291               | jei_1.12.2-4.15.0.291.jar                     | None                                     |
+	| LCHIJA | quark              | r1.6-179                 | Quark-r1.6-179.jar                            | None                                     |
+	| LCHIJA | autoreglib         | 1.3-32                   | AutoRegLib-1.3-32.jar                         | None                                     |
+	| LCHIJA | battletowers       | 1.6.5                    | BattleTowers-1.12.2.jar                       | None                                     |
+	| LCHIJA | baubles            | 1.5.2                    | Baubles-1.12-1.5.2.jar                        | None                                     |
+	| LCHIJA | mantle             | 1.12-1.3.3.55            | Mantle-1.12-1.3.3.55.jar                      | None                                     |
+	| LCHIJA | ctm                | MC1.12.2-1.0.2.31        | CTM-MC1.12.2-1.0.2.31.jar                     | None                                     |
+	| LCHIJA | twilightforest     | 3.10.1013                | twilightforest-1.12.2-3.10.1013-universal.jar | None                                     |
+	| LCHIJA | tconstruct         | 1.12.2-2.13.0.183        | TConstruct-1.12.2-2.13.0.183.jar              | None                                     |
+	| LCHIJA | bhc                | 1.2.3                    | baubley-heart-canisters-1.12.2-1.2.3.jar      | None                                     |
+	| LCHIJA | llibrary           | 1.7.19                   | llibrary-1.7.19-1.12.2.jar                    | b9f30a813bee3b9dd5652c460310cfcd54f6b7ec |
+	| LCHIJA | cqrepoured         | 1.15.2A                  | ChocolateQuestRepoured-1.12.2-1.15.2A.jar     | None                                     |
+	| LCHIJA | conarm             | 1.2.5.4                  | conarm-1.12.2-1.2.5.4.jar                     | 2484ef4d131fdc0dca0647aa21b7b944ddb935a1 |
+	| LCHIJA | cyclicmagic        | 1.20.2                   | Cyclic-1.12.2-1.20.2.jar                      | 0e5cb559be7d03f3fc18b8cba547d663e25f28af |
+	| LCHIJA | dldungeonsjbg      | 1.13.2                   | DoomlikeDungeons-1.13.2-MC1.12.2.jar          | None                                     |
+	| LCHIJA | ebwizardry         | 4.2.11                   | ElectroblobsWizardry-4.2.11-MC1.12.2.jar      | None                                     |
+	| LCHIJA | forgelin           | 1.8.4                    | Forgelin-1.8.4.jar                            | None                                     |
+	| LCHIJA | ftbbackups         | 1.1.0.1                  | FTBBackups-1.1.0.1.jar                        | None                                     |
+	| LCHIJA | ftblib             | 5.4.7.0                  | FTBLib-5.4.7.0.jar                            | None                                     |
+	| LCHIJA | ftbutilities       | 5.4.0.124                | FTBUtilities-5.4.0.124.jar                    | None                                     |
+	| LCHIJA | itemfilters        | 1.0.3.12                 | ItemFilters-1.0.3.12.jar                      | None                                     |
+	| LCHIJA | ftbquests          | 1.8.0.237                | FTBQuests-1.8.0.237.jar                       | None                                     |
+	| LCHIJA | waila              | 1.8.26                   | Hwyla-1.8.26-B41_1.12.2.jar                   | None                                     |
+	| LCHIJA | iceandfire         | 1.9.0                    | iceandfire-1.9.0.jar                          | None                                     |
+	| LCHIJA | jjskill            | 1.0.35                   | JJ Skill 1.12-1.12.2-v1.0.35.jar              | None                                     |
+	| LCHIJA | journeymap         | 1.12.2-5.7.1             | journeymap-1.12.2-5.7.1.jar                   | None                                     |
+	| LCHIJA | librarianlib       | 4.20                     | librarianlib-1.12.2-4.20-release.jar          | None                                     |
+	| LCHIJA | psi                | r1.1-77                  | Psi-r1.1-77.jar                               | None                                     |
+	| LCHIJA | magipsi            | 1.3                      | MagicalPsi-1.3.2.jar                          | None                                     |
+	| LCHIJA | morpheus           | 1.12.2-3.5.106           | Morpheus-1.12.2-3.5.106.jar                   | None                                     |
+	| LCHIJA | mtlib              | 3.0.6                    | MTLib-3.0.6.jar                               | None                                     |
+	| LCHIJA | openglider         | @VERSION@                | OpenGlider-1.12.1-1.1.0.jar                   | None                                     |
+	| LCHIJA | patchouli          | 1.0-20                   | Patchouli-1.0-20.jar                          | None                                     |
+	| LCHIJA | psipherals         | 1.1.0                    | psipherals-1.1.0.jar                          | None                                     |
+	| LCHIJA | tfspellpack        | 1.0.1                    | TFSpellPack-1.0.1-MC1.12.2.jar                | None                                     |
+	| LCHIJA | tinkertoolleveling | 1.12.2-1.1.0.DEV.b23e769 | TinkerToolLeveling-1.12.2-1.1.0.jar           | None                                     |
+	| LCHIJA | travellersbackpack | 1.0.23.23                | TravellersBackpack-1.12.2-1.0.23.23.jar       | None                                     |
+	| LCHIJA | wizardry           | 0.10.8                   | wizardry-0.10.8.jar                           | None                                     |
+	| LCHIJA | librarianliblate   | 4.20                     | librarianlib-1.12.2-4.20-release.jar          | None                                     |
+
+	Loaded coremods (and transformers): 
+llibrary (llibrary-core-1.0.11-1.12.2.jar)
+  net.ilexiconn.llibrary.server.core.plugin.LLibraryTransformer
+  net.ilexiconn.llibrary.server.core.patcher.LLibraryRuntimePatcher
+LibrarianLib Plugin (librarianlib-1.12.2-4.20-release.jar)
+  com.teamwizardry.librarianlib.asm.LibLibTransformer
+ForgelinPlugin (Forgelin-1.8.4.jar)
+  
+Wizardry Plugin (wizardry-0.10.8.jar)
+  com.teamwizardry.wizardry.asm.WizardryTransformer
+Quark Plugin (Quark-r1.6-179.jar)
+  vazkii.quark.base.asm.ClassTransformer
+CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+  team.chisel.ctm.client.asm.CTMTransformer
+	GL info: ~~ERROR~~ RuntimeException: No OpenGL context found in the current thread.
+	Pulsar/tconstruct loaded Pulses: 
+		- TinkerCommons (Enabled/Forced)
+		- TinkerWorld (Enabled/Not Forced)
+		- TinkerTools (Enabled/Not Forced)
+		- TinkerHarvestTools (Enabled/Forced)
+		- TinkerMeleeWeapons (Enabled/Forced)
+		- TinkerRangedWeapons (Enabled/Forced)
+		- TinkerModifiers (Enabled/Forced)
+		- TinkerSmeltery (Enabled/Not Forced)
+		- TinkerGadgets (Enabled/Not Forced)
+		- TinkerOredict (Enabled/Forced)
+		- TinkerIntegration (Enabled/Forced)
+		- TinkerFluids (Enabled/Forced)
+		- TinkerMaterials (Enabled/Forced)
+		- TinkerModelRegister (Enabled/Forced)
+		- wailaIntegration (Enabled/Not Forced)
+		- quarkIntegration (Enabled/Not Forced)
+
+	[Psi] Active spell: None
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 8; [EntityPlayerMP['DieInsel'/315, l='New World', x=1549.60, y=65.00, z=46.42]]
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'fml,forge'

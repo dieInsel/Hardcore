@@ -467,6 +467,18 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/scrolls": {
+    "criteria": {
+      "criteria_0": "2020-04-27 19:05:19 +0200"
+    },
+    "done": true
+  },
+  "ebwizardry:discover_master_spell": {
+    "criteria": {
+      "criteria_0": "2020-04-27 19:06:31 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_the_recipe": "2020-04-23 17:30:59 +0200"
@@ -611,6 +623,12 @@
     },
     "done": true
   },
+  "bhc:main/root": {
+    "criteria": {
+      "red_heart_in_inventory": "2020-04-27 19:04:10 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_the_recipe": "2020-04-23 17:30:59 +0200"
@@ -693,6 +711,7 @@
     "criteria": {
       "skeleton": "2020-04-23 17:37:07 +0200",
       "zombie": "2020-04-23 17:37:13 +0200",
+      "cave_spider": "2020-04-27 19:04:09 +0200",
       "creeper": "2020-04-25 16:09:45 +0200"
     },
     "done": false
@@ -2332,6 +2351,13 @@
       "has_the_recipe": "2020-04-23 17:30:59 +0200"
     },
     "done": true
+  },
+  "ebwizardry:all_spells": {
+    "criteria": {
+      "frost_ray": "2020-04-27 19:05:20 +0200",
+      "lightning_hammer": "2020-04-27 19:06:31 +0200"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {

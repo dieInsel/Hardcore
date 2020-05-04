@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-04-25T13:48:47.2982663Z",
+  "lastPlayed": "2020-04-27T16:58:21.4223891Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1950,7 +1950,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 238222,
@@ -2839,6 +2839,92 @@
       "dateUpdated": "2020-04-22T16:42:05.4756082Z",
       "dateLastUpdateAttempted": "2020-04-22T16:42:05.4756082Z",
       "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 303422,
+      "gameInstanceID": "ca56b0ab-a1ee-4af9-a748-175e6a132bfb",
+      "installedFile": {
+        "id": 2938472,
+        "displayName": "Alpha 21.2",
+        "fileName": "ChocolateQuestRepoured-1.12.2-1.15.2A.jar",
+        "fileDate": "2020-04-23T15:31:54.827Z",
+        "fileLength": 6229555,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2938/472/ChocolateQuestRepoured-1.12.2-1.15.2A.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 243298,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 360334,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3490789782,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 1605485576,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3823994528,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1137689661,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3273911401,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 749580800,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "ChocolateQuestRepoured-1.12.2-1.15.2A.jar"
+      },
+      "dateInstalled": "2020-04-27T11:58:34.4114955Z",
+      "dateUpdated": "2020-04-27T11:58:34.4352959Z",
+      "dateLastUpdateAttempted": "2020-04-27T11:58:34.4352959Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
